@@ -3,17 +3,17 @@
 ### This instruction was updated on: Dec 6, 2022.
 ### Supervised by: Eng.Eman Hesham
 ************************
-# Table of contents
-   * [Contributers Name]
-   * [Project Document] 
-   * [Project Video]
-   * [Project Description]
-   * [Project Courses]
-   * [Programming Language]
-   * [Technologies]
-   * [Program Explanation]
+### Table of contents
+   * Contributers Name
+   * Project Document
+   * Project Video
+   * Project Description
+   * Project Courses
+   * Programming Language
+   * Technologies
+   * Program Explanation
         
-###Authors & contributers:
+### Contributers Name :
     Mohamed Khalid Shahat
    //Yahya Tarek Ahmed
    //Abdelrahman Mohamed Sharaf
@@ -21,15 +21,15 @@
    //Aliaa Ahmed Mohamed
 
 
-###Project Document
+### Project Document
    <br /> google docs link:
 
 
-###Project Video
+### Project Video
    <br /> google drive link:
 
 
-###Project Description: 
+### Project Description: 
    * Display the current temprature through a guage ui
    * fires an alarm (sound - light - warning sign in the UI) when a fire accident occurs
    * press "Stop" button to stop the alarm in case of wrong detection
@@ -38,12 +38,12 @@
        * fire accident date: day/month/year
        * fire accident time: hours:miniutes:seconds  am/pm
        
-###Project courses:
+### Project courses:
    * Java project for Java course
    * Embedded Systems internship Intake42
 
  
-###Programming Language: 
+### Programming Language: 
    * Java for application
    * C++ for arduino
 
@@ -55,7 +55,7 @@
       * Scene Builder GLUON version: 8.5.0
       * Medusa library version: 8.0
 
-###Program Explanation:
+### Program Explanation:
 
    * gui package
        * SerialProtocol class: responisble for connection with ports (arduino board port in our application)
