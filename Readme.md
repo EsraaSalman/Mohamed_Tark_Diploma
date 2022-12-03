@@ -22,11 +22,11 @@
 
 
 ##### Project Document
-    <br /> Google docs link:
+   <br /> Google docs link:
 
 
 ##### Project Video
-    <br /> Google drive link:
+   <br /> Google drive link:
 
 
 ##### Project Description: 
@@ -55,9 +55,9 @@
 
 ##### Program Explanation:
 
-    * GUI Package
+   * GUI Package
        * SerialProtocol class: responisble for connection with ports (arduino board port in our application)
-       * Fire.alarm class: main package
+       * FireAlarm class: main 
        * FireAccidantChecking: contain our main functionality of checking fire condition and take actions towards the fire accidant
        * Client class: communicates with the server through two requests:
            * Tell server to record a fire 
@@ -65,7 +65,7 @@
        * FXML Controller class:contains  the client thread and the main thread responsible for checking fire accidant and also the FXML objects handlers
        * FireAlarm class:contains the main method responsible for launching the GUI
        
-    * Server package
+   * Server package
        * FireAccidant class: a customized node class for fire, each node represent the fire accidand data 
        * ListofFireAccidant class: a customized list class where its nodes are the fire occurence nodes  
        * ClientHandler class: responsible for checking the requests from the client and take actions towards it
