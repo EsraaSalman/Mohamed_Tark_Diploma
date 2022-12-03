@@ -1,7 +1,7 @@
 ### PROJECT: FIRE ALARM PROJECT 
-# GROUP NUMBER: 3
-# This instruction was updated on: Dec 6, 2022.
-# Supervised by: Eng.Eman Hesham
+### GROUP NUMBER: 3
+### This instruction was updated on: Dec 6, 2022.
+### Supervised by: Eng.Eman Hesham
 ************************
 # Table of contents
    * [Contributers Name]
@@ -14,11 +14,11 @@
    * [Program Explanation]
         
 ##Authors & contributers:
-   *Mohamed Khalid Shahat
-   *Yahya Tarek Ahmed
-   *Abdelrahman Mohamed Sharaf
-   *Esraa Mohamed Mostafa
-   *Aliaa Ahmed Mohamed
+    Mohamed Khalid Shahat
+   //Yahya Tarek Ahmed
+   //Abdelrahman Mohamed Sharaf
+   //Esraa Mohamed Mostafa
+   //Aliaa Ahmed Mohamed
 
 
 ## Project Document
