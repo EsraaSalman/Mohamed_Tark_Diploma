@@ -30,10 +30,10 @@
 
 
 ##### Project Description: 
-    * Display the current temprature through a guage ui
-    * Fires an alarm (sound - light - warning sign in the UI) when a fire accident occurs
-    * Press "Stop" button to stop the alarm in case of wrong detection
-    * Press "History" button to Display the data of fires accident its content is:
+   * Display the current temprature through a guage ui
+   * Alarm (Sound - Light - Warning sign in the GUI) when detect fire accident 
+   * Press "Stop" button to stop the alarm if it is wrong detection
+   * Press "History" button to Display the data of fires accident its content is:
        * Fire accident ID: the number of fire since operation
        * Fire accident date: day/month/year
        * Fire accident time: hours:miniutes:seconds  am/pm
