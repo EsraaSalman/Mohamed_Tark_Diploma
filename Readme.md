@@ -39,19 +39,19 @@
        * Fire accident time: hours:miniutes:seconds  am/pm
        
 ##### Project courses:
-    * Java project for Java course
-    * Embedded Systems internship Intake42
+   * Java project for Java course
+   * Embedded Systems internship Intake42
 
  
 ##### Programming Language: 
-    * Java for application
-    * C++ for arduino
+   * Java for application
+   * C++ for arduino
 
 ##### Technologies:
-    * Java developer kit: JDK 8 
-    * Apache NetBeans IDE version: 15
-    * Scene Builder GLUON version: 8.5.0
-    * Medusa library version: 8.0
+   * Java developer kit: JDK 8 
+   * Apache NetBeans IDE version: 15
+   * Scene Builder GLUON version: 8.5.0
+   * Medusa library version: 8.0
 
 ##### Program Explanation:
 
