@@ -3,7 +3,7 @@
 ### This instruction was updated on: Dec 6, 2022.
 ### Supervised by: Eng.Eman Hesham
 ************************
-#### Table of contents
+#### Table of contents:
    * Contributers Name
    * Project Document
    * Project Video
@@ -13,12 +13,12 @@
    * Technologies
    * Program Explanation
         
-#### Contributers Name :
-   *Mohamed Khalid Shahat
-   *Yahya Tarek Ahmed
-   *Abdelrahman Mohamed Sharaf
-   *Esraa Mohamed Mostafa
-   *Aliaa Ahmed Mohamed
+#### Contributers Name:
+   * Mohamed Khalid Shahat
+   * Yahya Tarek Ahmed
+   * Abdelrahman Mohamed Sharaf
+   * Esraa Mohamed Mostafa
+   * Aliaa Ahmed Mohamed
 
 
 #### Project Document
