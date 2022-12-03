@@ -49,7 +49,7 @@
 
 
 #### Technologies
-   <br /> Project is created with:
+   <br /> Project is created with: 
       * Java developer kit: JDK 8 
       * Apache NetBeans IDE version: 15
       * Scene Builder GLUON version: 8.5.0
@@ -67,7 +67,7 @@
        * FXML Controller class:contains  the client thread and the main thread responsible for checking fire accidant and also the FXML objects handlers
        * FireAlarm class:contains the main method responsible for launching the GUI
        
-   * server package
+   * Server package
        * FireAccidant class: a customized node class for fire, each node represent the fire accidand data 
        * ListofFireAccidant class: a customized list class where its nodes are the fire occurence nodes  
        * ClientHandler class: responsible for checking the requests from the client and take actions towards it
