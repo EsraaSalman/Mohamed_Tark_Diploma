@@ -22,21 +22,21 @@
 
 
 #### Project Document
-   <br /> google docs link:
+   <br /> Google docs link:
 
 
 #### Project Video
-   <br /> google drive link:
+   <br /> Google drive link:
 
 
 #### Project Description: 
    * Display the current temprature through a guage ui
-   * fires an alarm (sound - light - warning sign in the UI) when a fire accident occurs
-   * press "Stop" button to stop the alarm in case of wrong detection
-   * press "History" button to Display the data of fires accident its content is:
-       * fire accident ID: the number of fire since operation
-       * fire accident date: day/month/year
-       * fire accident time: hours:miniutes:seconds  am/pm
+   * Fires an alarm (sound - light - warning sign in the UI) when a fire accident occurs
+   * Press "Stop" button to stop the alarm in case of wrong detection
+   * Press "History" button to Display the data of fires accident its content is:
+       * Fire accident ID: the number of fire since operation
+       * Fire accident date: day/month/year
+       * Fire accident time: hours:miniutes:seconds  am/pm
        
 #### Project courses:
    * Java project for Java course
@@ -49,7 +49,7 @@
 
 
 #### Technologies
-   <br />Project is created with:
+   <br /> Project is created with:
       * Java developer kit: JDK 8 
       * Apache NetBeans IDE version: 15
       * Scene Builder GLUON version: 8.5.0
@@ -57,9 +57,9 @@
 
 #### Program Explanation:
 
-   * gui package
+   * GUI Package
        * SerialProtocol class: responisble for connection with ports (arduino board port in our application)
-       * fire.alarm class: main package
+       * Fire.alarm class: main package
        * FireAccidantChecking: contain our main functionality of checking fire condition and take actions towards the fire accidant
        * Client class: communicates with the server through two requests:
            Tell server to record a fire 
