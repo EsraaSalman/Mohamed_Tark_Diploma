@@ -47,9 +47,7 @@
    * Java for application
    * C++ for arduino
 
-
-#### Technologies
-   Project is created with: 
+#### Technologies:
       *  Java developer kit: JDK 8 
       *  Apache NetBeans IDE version: 15
       *  Scene Builder GLUON version: 8.5.0
@@ -62,8 +60,8 @@
        * Fire.alarm class: main package
        * FireAccidantChecking: contain our main functionality of checking fire condition and take actions towards the fire accidant
        * Client class: communicates with the server through two requests:
-           *** Tell server to record a fire 
-           *** Tell it show the recorded fires history 
+        * Tell server to record a fire 
+        * Tell it show the recorded fires history 
        * FXML Controller class:contains  the client thread and the main thread responsible for checking fire accidant and also the FXML objects handlers
        * FireAlarm class:contains the main method responsible for launching the GUI
        
