@@ -40,7 +40,7 @@
 
    * project_gui
        * Communication package
-           *SerialProtocol class: Connect with arduino, send and receive data
+           * SerialProtocol class: Connect with arduino, send and receive data
        * project_gui package
            * Clint class: communicate with the server for two requests
               *  Tell server to record a fire accident 
