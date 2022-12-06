@@ -25,7 +25,7 @@
    <br /> Google docs link:
 
 ##### Project Video
-   <br /> Google drive link:
+   <br /> Google drive link: https://drive.google.com/file/d/1n_AbTc_7YLjS_QnvGYFLiaXlIc9fsEHg/view?usp=share_link
 
 ##### Project Description: 
    * Display the current temprature through a guage Gui
@@ -39,9 +39,8 @@
 ##### Java Program Explanation:
 
    * project_gui
-       * Communication package
-           * SerialProtocol class: Connect with arduino, send and receive data
        * project_gui package
+           * ConnectJavaToArduinoSerial class: Connect with arduino, send and receive data
            * Clint class: communicate with the server for two requests
               * Tell server to record a fire accident 
               * Tell server show the recorded fires list of fire accidents "History" 
