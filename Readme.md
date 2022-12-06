@@ -52,16 +52,16 @@
    * project_server
        * ClientHandler class: Checking the requests from the client and take actions 
        * FireAccidant class:  Represents the fire accident data for each accident which are
-              * The fire accident temp 
-              * The fire accident date  
-              * The fire accident time  
-              * The fire accident id
-              * The total number of fires accident
+           * The fire accident temp 
+           * The fire accident date  
+           * The fire accident time  
+           * The fire accident id
+           * The total number of fires accident
        * ListofFireAccidant class:  List of fire accidents 
-              * Append new accident
-              * Delete accident
-              * Record data
-              * Open list of the fire accidents
+           * Append new accident
+           * Delete accident
+           * Record data
+           * Open list of the fire accidents
        * Server class: Waits for client requests
        * ServerGUI class: Main method for launching to the server
   
