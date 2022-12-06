@@ -41,7 +41,7 @@
    * project_gui (project_gui package)
        * ConnectJavaToArduinoSerial class: Connect with arduino, send and receive data
        * FXMLDocumentController class:   
-           * Client thread and the main thread to checking fire accident
+           * Main thread to checking fire accident
            * Communicate with the server for two requests
               * Tell server to record a fire accident
               * Tell server show the recorded fires list of fire accidents "History" 
