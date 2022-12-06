@@ -28,7 +28,7 @@
    <br /> Google drive link:
 
 ##### Project Description: 
-   * Display the current temprature through a guage ui
+   * Display the current temprature through a guage Gui
    * Alarm (Sound - Light - Warning sign in the GUI) when detect fire accident 
    * Press "Stop" button to stop the alarm if it is wrong detection
    * Press "History" button to Display the data of fires accident its content is:
