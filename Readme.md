@@ -66,7 +66,6 @@
        * ServerGUI class: Main method for launching to the server
   
   ##### Arduino Program Explanation:
-
    * including DHT sensor library
    * Checking data sending to Arduino if:
               * data equal '0' Start the connection
