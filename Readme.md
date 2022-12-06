@@ -25,7 +25,7 @@
    <br /> Google docs link:
 
 ##### Project Video
-   <br /> Google drive link: https://drive.google.com/file/d/1n_AbTc_7YLjS_QnvGYFLiaXlIc9fsEHg/view?usp=share_link
+   * Google drive link: https://drive.google.com/file/d/1n_AbTc_7YLjS_QnvGYFLiaXlIc9fsEHg/view?usp=share_link
 
 ##### Project Description: 
    * Display the current temprature through a guage Gui
