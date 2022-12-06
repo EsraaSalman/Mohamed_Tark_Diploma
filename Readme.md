@@ -38,17 +38,17 @@
 
 ##### Java Program Explanation:
 
-   * project_gui
-       * project_gui package
-           * ConnectJavaToArduinoSerial class: Connect with arduino, send and receive data
-           * Clint class: communicate with the server for two requests
-              * Tell server to record a fire accident 
+   * project_gui (project_gui package)
+       * ConnectJavaToArduinoSerial class: Connect with arduino, send and receive data
+       * FXMLDocumentController class:   
+           * Client thread and the main thread to checking fire accident
+           * Communicate with the server for two requests
+              * Tell server to record a fire accident
               * Tell server show the recorded fires list of fire accidents "History" 
-           * FXMLDocumentController class: Client thread and the main thread to checking fire accident
-           * FireAccident class: Main functionality to check fire accident and take actions
-           * Project_Gui class: Main method for launching to the GUI
+       * FireAccident class: Main functionality to check fire accident and take actions
+       * Project_Gui class: Main method for launching to the GUI
      
-   * project_server
+   * project_server (server package)
        * ClientHandler class: Checking the requests from the client and take actions 
        * FireAccidant class:  Represents the fire accident data for each accident which are
            * The fire accident temp 
