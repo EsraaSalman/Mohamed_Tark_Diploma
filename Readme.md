@@ -43,8 +43,8 @@
            * SerialProtocol class: Connect with arduino, send and receive data
        * project_gui package
            * Clint class: communicate with the server for two requests
-              *  Tell server to record a fire accident 
-              *  Tell server show the recorded fires list of fire accidents "History" 
+              * Tell server to record a fire accident 
+              * Tell server show the recorded fires list of fire accidents "History" 
            * FXMLDocumentController class: Client thread and the main thread to checking fire accident
            * FireAccident class: Main functionality to check fire accident and take actions
            * Project_Gui class: Main method for launching to the GUI
@@ -68,9 +68,9 @@
   ##### Arduino Program Explanation:
    * including DHT sensor library
    * Checking data sending to Arduino if:
-              * data equal '0' Start the connection
-              * data equal '1' There is a fire accident
-              * data equal '2' Stop the alarm
+       * data equal '0' Start the connection
+       * data equal '1' There is a fire accident
+       * data equal '2' Stop the alarm
 
 ##### Project courses:
    * Java project for Java course
