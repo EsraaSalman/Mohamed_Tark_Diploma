@@ -1,3 +1,0 @@
-Folder1 text1.txt source1.c header1.h 
-Folder2 text2.txt source2.c header2.h 
-Folder3 text3.txt source3.c header3.h
